@@ -3,5 +3,5 @@
 
 Dica: Use um loop `for` para iterar sobre o array de strings e uma condição (`length`) para verificar o comprimento de cada string.
 
-Valor: 8 pontos
+Valor: 6 pontos
 ```
