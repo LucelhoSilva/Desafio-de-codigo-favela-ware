@@ -1,4 +1,4 @@
-let idade = 18;
-let maiorDeIdade = idade >= 18;
+let idade = 20 // Você pode atribuir qualquer valor aqui
+let maiorDeIdade = idade >= 18
 
-console.log(maiorDeIdade); // true
+console.log("É maior de idade? " + maiorDeIdade)

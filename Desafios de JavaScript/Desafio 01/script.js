@@ -1,1 +1,3 @@
-let nome = "SeuNome";
+let nome = "seuNome"
+
+console.log(nome) // seuNome
